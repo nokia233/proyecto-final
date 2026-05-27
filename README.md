@@ -24,3 +24,16 @@
 |    |----------------------------------------------------------|
 |------------------------------------------------------------------------------------------------------------------------------------|
 
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    UX(experiencia del usaurio):                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Principio                   | Cómo aplicarlo                                                                                                            |        
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Diseño emocional            | Animaciones suaves al mostrar datos, retroalimentación instantánea, mensajes personalizados que conecten emocionalmente   |
+| Visualización clara         | Gráficos interactivos (Plotly), mapas de calor, tendencias temporales con colores intuitivos                              |        
+| Modo oscuro + accesibilidad | Contraste óptimo, fuentes adaptables, cumplir WCAG para inclusión                                                         |        
+| Microinteracciones          | Feedback al hacer clic, transiciones suaves entre                                                                         |        
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
